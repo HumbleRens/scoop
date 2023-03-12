@@ -1,0 +1,2 @@
+# scoop
+Install Scoop
